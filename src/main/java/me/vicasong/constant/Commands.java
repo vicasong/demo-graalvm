@@ -17,5 +17,6 @@ public final class Commands {
 
 		/** Sleep */
 		public static final String SLEEP = "sleep";
+		public static final String LOCK = "lock";
 	}
 }
